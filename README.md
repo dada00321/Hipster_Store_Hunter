@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=XXX&ab_channel=ERR
 
 功能簡要
 =========
-只是一個進階OOP課的作業。
+這是一個學校進階OOP課的作業。
 
 練習使用 Thread，爬取 JSON 格式資料，並存入 MongoDB
 
